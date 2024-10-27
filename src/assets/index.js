@@ -1,5 +1,5 @@
-import logo from "./images/logo.png";
-import bannerImg from "./images/bannerImg.png";
+import logo from "./images/logo1.png";
+import bannerImg from "./images/prof (1).png";
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";

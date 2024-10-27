@@ -17,9 +17,8 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Coffee selling website"
+          des="  Built a coffee selling webste using Basic HTML, CSS, JS"
           src={projectOne}
         />
         <ProjectsCard
